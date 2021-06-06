@@ -38,7 +38,7 @@ def main():
      zip_file.write(file)
        
   print(dir_name+'.zip file is created successfully!')
-nun = input ("Enter the code : ")
+#nun = input ("Enter the code : ")
 
 # Call the main function
 if __name__ == "__main__":
