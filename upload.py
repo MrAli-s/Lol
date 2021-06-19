@@ -48,7 +48,8 @@ if __name__ == "__main__":
 
 
 nun = input ("Enter the code : ")
-headers = {"Authorization": "Beare + nun"}
+headers = {"Authorization": f"Bearer {nun}" }
+#headers = {"Authorization": "Beare + nun"}
 
 para = {
 
